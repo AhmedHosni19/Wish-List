@@ -1,4 +1,4 @@
-The application helps you to keep you wishes
+An application helps you to keep you wishes
 
 Kotlin ,MVVM ,Jetpack Compose ,Room Database
 
